@@ -428,7 +428,7 @@ The project can serve as a foundation for developing more advanced AI-powered co
 Electronics and Telecommunication Engineering
 
 GitHub:
-`https://github.com/YOUR_USERNAME`
+`https://github.com/yash67026`
 
 ---
 
